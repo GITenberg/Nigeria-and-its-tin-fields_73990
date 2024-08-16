@@ -1,6 +1,9 @@
 _repo: Nigeria-and-its-tin-fields_73990
 _version: 0.1.0
 alternative_title: Nigeria & its tin fields
+covers:
+- cover_type: archival
+  image_path: 73990-h/images/cover.jpg
 creator:
   author:
     agent_name: Calvert, Albert Frederick
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39139
     wikipedia: https://en.wikipedia.org/wiki/Albert_Frederick_Calvert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73990#Nigeria-and-its-tin-fields
 gutenberg_issued: '2024-07-08'
 gutenberg_type: Text
 identifiers:
